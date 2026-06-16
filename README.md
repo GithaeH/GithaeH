@@ -1,9 +1,9 @@
-# Hi, I'm Hellen Githae
+# If you're new here
 
-## About Me
-I'm a Computer Programming student with a growing interest in web development and programming. I enjoy learning new technologies, solving problems, and building practical skills through hands-on projects while working toward becoming a confident full-stack developer.
+Hi!  
+I'm Hellen, a Computer Programming student with a growing interest in web development and programming. I enjoy learning new technologies, solving problems, and building practical skills through hands-on projects while working toward becoming a confident full-stack developer.
 
-## Skills I'm Building  
+## Building Blocks  
 Currently, I'm developing my knowledge of:
 - Git
 - GitHub
